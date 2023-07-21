@@ -27,3 +27,8 @@ https://softinery.com/pl/regulator-pid-python/ - in Polish
 plug_flow.ipynb - simulation of plug-flow reactor. The description of the problem can be found here:
 
 https://softinery.com/simulation-of-plug-flow-reactor/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+lotka_volterra.ipynb - simulation of Lotka-Volterra model. The description of the problem can be found here:
+
+https://softinery.com/lotka-volterra-model-and-simulation/
