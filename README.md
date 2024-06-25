@@ -19,9 +19,9 @@ https://softinery.com/pl/uklad-rownan-algebraicznych-rozniczkowych/ - in Polish
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 PID.ipynb - implementation of PID controller with an example of simulation of a system with automatic control. The description of the problem can be found here:
 
-https://softinery.com/implementation-of-pid-controller-in-python/ - in English
+[https://softinery.com/implementation-of-pid-controller-in-python/](https://softinery.com/blog/implementation-of-pid-controller-in-python/) - in English
 
-https://softinery.com/pl/regulator-pid-python/ - in Polish
+[https://softinery.com/pl/regulator-pid-python/](https://softinery.com/pl/blog/regulator-pid-python/) - in Polish
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 plug_flow.ipynb - simulation of plug-flow reactor. The description of the problem can be found here:
