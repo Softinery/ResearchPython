@@ -26,9 +26,9 @@ PID.ipynb - implementation of PID controller with an example of simulation of a 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 plug_flow.ipynb - simulation of plug-flow reactor. The description of the problem can be found here:
 
-https://softinery.com/simulation-of-plug-flow-reactor/
+https://softinery.com/blog/simulation-of-plug-flow-reactor/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 lotka_volterra.ipynb - simulation of Lotka-Volterra model. The description of the problem can be found here:
 
-https://softinery.com/lotka-volterra-model-and-simulation/
+https://softinery.com/blog/lotka-volterra-model-and-simulation/
